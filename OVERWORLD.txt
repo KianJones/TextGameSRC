@@ -1,1 +1,13 @@
 Overworld
+
+(see Zork map online)
+
+Forests
+Waterfalls
+Deserts
+Lakes / Ponds
+Ocean (probably easiest to make our world an island)
+Mountains (also effective as boundaries, some can be scalable)
+Paths
+Fields
+Village (with caslte in center, etc)

@@ -1,1 +1,11 @@
 Underworld
+
+Pretty much all paths and rooms, only exists to lead player to dungeons
+
+Enemies can be walking around here. Unsafe place
+
+Volcanoes
+Frozen Wastelands
+Harsh Weather
+Messed Up castle
+shops / maybe one place to heal
