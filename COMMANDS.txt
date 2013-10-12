@@ -1,0 +1,25 @@
+Commands
+
+		Horizontal Movement: North (N), South (S), East (E), West (W), North-east / Northeast (NE), North-west / Northwest (NW), South-east / Southeast (SE), South-west / Southwest (SW)
+		Upward Vertical Movement: Go Up, Up, Climb, Ascend, Scale, Resurface
+		Downward Vertical Movement: Go Down, Down, Descend, Drop, Fall, Fall Down, Dive
+		
+		Checking Items/Objects: Check (item), Examine (item), Inspect (item), Look At (item), Open (openable item), Read (readable item), Break (item)
+		Taking things: Take, Get, Grab, Acquire, Pick Up, Snag
+		Putting things down: Drop, Put Down, Throw, Trash, Discard, Get Rid Of, Delete, Throw Away
+		
+		Attacks
+			Swords/Knives/Daggers: Stab, Slice, Cut, Slash, Use "item", Thrust
+			Bows: Shoot, Use "item"
+			With No Weapon: Punch, Kick, Hit, Headbutt, Bite, Trash, Smash, Scratch, Attack, Throw (item) at (enemy)
+		
+		Checking Surroundings: Look, Look Around, Check Area, Check Surroundings
+		
+		Health/Player: Status, Inventory, Eat, Consume, Drink, Use item (item)
+		
+		Joke Commands: Commit Suicide, Fuck, Have sex with, Shout, YOLO, Shit on, Piss on, Shit, Piss, Poop, Give Up, 
+		
+		Other Movement: Enter (building/place), Exit (building/place), Open (door), Dig, Swim
+		
+		Area-Specific Commands
+			Store: Inventory (your items), Sell, Buy, a
