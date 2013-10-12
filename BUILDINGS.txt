@@ -4,5 +4,4 @@ Places of Healing / Sanctuaries
 Shops
 Misc. Houses / Buildings
 Castle
-Misc secret places
-swag
+secret places
